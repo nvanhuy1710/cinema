@@ -1,0 +1,7 @@
+6
+cnmr01, 86, great. 
+cnmr02, 98, bad. 
+cnmr03, 86, normal. 
+cnmr04, 120, great. 
+cnmr05, 60, good. 
+cnmr06, 98, great. 
